@@ -9,7 +9,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image1,
     content:
-      "Absolutely seamless experience from start to finish. The quality of the rentals was outstanding!",
+      "Dilini equipments made our event effortless with their top-notch equipment and prompt service!",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image2,
     content:
-      "Our wedding was a dream come true, thanks to their beautiful setup and timely service.",
+      "Our wedding was perfect, thanks to the beautiful setup provided by Dilini Event Equipment Suppliers.",
   },
   {
     id: 3,
@@ -25,6 +25,6 @@ export const testimonialData: Testimonial[] = [
     designation: "Founter @democompany",
     image: image1,
     content:
-      "They made my corporate event look professional and elegant. Highly recommended!",
+      "Professional and dependable. They truly elevated our corporate event.",
   },
 ];

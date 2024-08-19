@@ -4,23 +4,23 @@ const featuresData: Feature[] = [
   {
     id: 1,
     icon: "/images/icon/icon-01.svg",
-    title: "Complete Event Setup",
+    title: "Comprehensive Event Equipment",
     description:
-      "We provide everything you need to create a flawless event, from tables and chairs to elegant stages and decorations.",
+      "From elegant seating to professional cooking gear, Dilini Event Equipment Suppliers provides all the essentials for a seamless event.",
   },
   {
     id: 2,
     icon: "/images/icon/icon-02.svg",
-    title: "Quality You Can Trust",
+    title: " Premium Quality Standards",
     description:
-      "Our rental items are meticulously maintained and selected for quality, ensuring your event looks and feels top-notch.",
+      "Our equipment is meticulously maintained to ensure your event is outfitted with only the best.",
   },
   {
     id: 3,
     icon: "/images/icon/icon-03.svg",
-    title: "Flexible Rental Packages",
+    title: "Customizable Rental Packages",
     description:
-      "Whether you need just a few items or a full setup, our flexible packages are designed to fit any event size and budget",
+      "Choose from a wide range of packages designed to suit events of any size and budget.",
   },
   {
     id: 4,
@@ -39,9 +39,9 @@ const featuresData: Feature[] = [
   {
     id: 6,
     icon: "/images/icon/icon-06.svg",
-    title: "Eco-Friendly Options",
+    title: "Sustainable Choices",
     description:
-      "We care about the environment. Ask us about our sustainable rental options to make your event both stylish and green.",
+      "Ask about our eco-friendly equipment options to make your event not only beautiful but also environmentally conscious.",
   },
 ];
 

@@ -13,8 +13,8 @@ const Pricing = () => {
             <SectionHeader
               headerInfo={{
                 title: `PRICING PLANS`,
-                subtitle: `Simple Pricing`,
-                description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+                subtitle: `Tailored Equipment Packages for Every Event`,
+                description: `Our pricing is transparent and competitive, with flexible packages to suit any budget. Contact us for a custom quote tailored to your event's needs.`,
               }}
             />
           </div>
@@ -34,52 +34,26 @@ const Pricing = () => {
             {/* <!-- Pricing Item --> */}
             <div className="animate_top group relative rounded-lg border border-stroke bg-white p-7.5 shadow-solid-10 dark:border-strokedark dark:bg-blacksection dark:shadow-none md:w-[45%] lg:w-1/3 xl:p-12.5">
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                $10{" "}
-                <span className="text-regular text-waterloo dark:text-manatee">
-                  /month
-                </span>
+                Rs.8000{" "}
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Small Pack
+                Basic Gathering
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Essential seating and cookware for small events, ensuring everything runs smoothly without breaking the bank.</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    300 GB Storage
+                    20 Chairs
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Unlimited Photos and Videos
+                    4 Tables
                   </li>
-                  <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                    Exclusive Support
-                  </li>
-                  <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                    Custom Branding Strategy
+                  <li className="mb-4 text-black last:mb-0 dark:text-manatee">
+                    Basic Cooking Set (Pots, Pans, Utensils)
                   </li>
                 </ul>
               </div>
-
-              <button
-                aria-label="Get the Plan button"
-                className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
-              >
-                <span className="duration-300 group-hover/btn:pr-2">
-                  Get the Plan
-                </span>
-                <svg
-                  width="14"
-                  height="14"
-                  viewBox="0 0 14 14"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M10.4767 6.16701L6.00668 1.69701L7.18501 0.518677L13.6667 7.00034L7.18501 13.482L6.00668 12.3037L10.4767 7.83368H0.333344V6.16701H10.4767Z"
-                    fill="currentColor"
-                  />
-                </svg>
-              </button>
             </div>
 
             {/* <!-- Pricing Item --> */}
@@ -89,103 +63,51 @@ const Pricing = () => {
               </div>
 
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                $59{" "}
-                <span className="text-regular text-waterloo dark:text-manatee">
-                  /month
-                </span>
+                Rs. 15000
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Medium Pack
+                Elegant Affair
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Add a touch of class with stylish furniture, decorative elements, and premium cooking equipment for a memorable event.</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    300 GB Storage
+                    50 Cushioned Chairs
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Unlimited Photos and Videos
+                    10 Decorated Tables
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Exclusive Support
-                  </li>
-                  <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                    Custom Branding Strategy
+                    Deluxe Cookware Set
                   </li>
                 </ul>
               </div>
-
-              <button
-                aria-label="Get the Plan button"
-                className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
-              >
-                <span className="duration-300 group-hover/btn:pr-2">
-                  Get the Plan
-                </span>
-                <svg
-                  width="14"
-                  height="14"
-                  viewBox="0 0 14 14"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M10.4767 6.16701L6.00668 1.69701L7.18501 0.518677L13.6667 7.00034L7.18501 13.482L6.00668 12.3037L10.4767 7.83368H0.333344V6.16701H10.4767Z"
-                    fill="currentColor"
-                  />
-                </svg>
-              </button>
             </div>
 
             {/* <!-- Pricing Item --> */}
             <div className="animate_top group relative rounded-lg border border-stroke bg-white p-7.5 shadow-solid-10 dark:border-strokedark dark:bg-blacksection dark:shadow-none md:w-[45%] lg:w-1/3 xl:p-12.5">
               <h3 className="mb-7.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                $189{" "}
-                <span className="text-regular text-waterloo dark:text-manatee">
-                  /month
-                </span>
+                Vary
               </h3>
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
-                Large Pack
+                Custom Package
               </h4>
-              <p>Lorem ipsum dolor sit amet, consec adipisicing elit.</p>
+              <p>Tailor your event with a custom package designed to meet your specific needs.</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    300 GB Storage
+                  Choose from any equipment or feature
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Unlimited Photos and Videos
+                  Personalized consultation
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Exclusive Support
-                  </li>
-                  <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Custom Branding Strategy
+                  Custom pricing based on selection
                   </li>
                 </ul>
               </div>
-
-              <button
-                aria-label="Get the Plan button"
-                className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
-              >
-                <span className="duration-300 group-hover/btn:pr-2">
-                  Get the Plan
-                </span>
-                <svg
-                  width="14"
-                  height="14"
-                  viewBox="0 0 14 14"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M10.4767 6.16701L6.00668 1.69701L7.18501 0.518677L13.6667 7.00034L7.18501 13.482L6.00668 12.3037L10.4767 7.83368H0.333344V6.16701H10.4767Z"
-                    fill="currentColor"
-                  />
-                </svg>
-              </button>
             </div>
           </div>
         </div>

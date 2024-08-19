@@ -22,7 +22,7 @@ const Testimonial = () => {
               headerInfo={{
                 title: `TESTIMONIALS`,
                 subtitle: `Trusted by Event Planners and Hosts Alike`,
-                description: `With years of experience in the industry, we’ve had the privilege of serving countless clients, from individual hosts to professional event planners. Our commitment to quality and customer satisfaction has earned us a reputation as a trusted partner for events of all sizes. Here’s what some of our satisfied clients have to say`,
+                description: `At Dilini Event Equipment Suppliers, we've built a strong reputation by providing high-quality equipment and exceptional service. From intimate gatherings to large-scale events, our clients trust us to deliver reliability and excellence. Here’s what some of our satisfied customers have to say:`,
               }}
             />
           </div>
