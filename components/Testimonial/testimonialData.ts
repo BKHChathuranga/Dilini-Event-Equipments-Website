@@ -5,24 +5,24 @@ import { Testimonial } from "@/types/testimonial";
 export const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Shakya Welagedara",
+    designation: "HRM @ Codexl",
     image: image1,
     content:
       "Dilini equipments made our event effortless with their top-notch equipment and prompt service!",
   },
   {
     id: 2,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Mr. and Mrs. Senanayake",
+    designation: "",
     image: image2,
     content:
       "Our wedding was perfect, thanks to the beautiful setup provided by Dilini Event Equipment Suppliers.",
   },
   {
     id: 3,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Sugath Perera",
+    designation: "GM @ Sugath enterprises",
     image: image1,
     content:
       "Professional and dependable. They truly elevated our corporate event.",
