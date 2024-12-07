@@ -58,10 +58,10 @@ const FunFact = () => {
             className="animate_top mx-auto mb-12.5 px-4 text-center md:w-4/5 md:px-0 lg:mb-17.5 lg:w-2/3 xl:w-1/2"
           >
             <h2 className="mb-4 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-           Our Leadership
+              Our Leadership
             </h2>
             <p className="mx-auto lg:w-11/12">
-            Meet the visionary leaders driving our commitment to excellence in event planning and execution.
+              Meet the visionary leaders driving our commitment to excellence in event planning and execution.
             </p>
           </motion.div>
 
@@ -84,10 +84,7 @@ const FunFact = () => {
               viewport={{ once: true }}
               className="animate_top text-center"
             >
-              {/* <h3 className="mb-2.5 text-3xl font-bold text-black dark:text-white xl:text-sectiontitle3">
-                500K
-              </h3> */}
-              <Image src={LahiruImage} className="rounded-full bg-auto bg-center h-50 w-50" width={180} height={300} alt="Lahiru Nirmal"/>
+              <Image src={LahiruImage} className="rounded-full bg-auto bg-center h-50 w-50" width={180} height={300} alt="Lahiru Nirmal" />
               <h3 className="text-base font-bold text-black dark:text-white mt-2">Lahiru Nirmal</h3>
               <p>Managing Director</p>
             </motion.div>
@@ -109,9 +106,9 @@ const FunFact = () => {
               viewport={{ once: true }}
               className="animate_top text-center"
             >
-               <Image src={DiliniImage} className="rounded-full bg-auto bg-center h-50 w-50" width={180} height={300} alt="Lahiru Nirmal"/>
-               <p className="text-base font-bold text-black dark:text-white mt-2 ">Dilini Senevirathne</p>
-               <p>Director</p>
+              <Image src={DiliniImage} className="rounded-full bg-auto bg-center h-50 w-50" width={180} height={300} alt="Lahiru Nirmal" />
+              <p className="text-base font-bold text-black dark:text-white mt-2 ">Dilini Senevirathne</p>
+              <p>Director</p>
             </motion.div>
             {/* <motion.div
               variants={{
