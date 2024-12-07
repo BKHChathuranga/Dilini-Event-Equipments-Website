@@ -25,7 +25,6 @@ export default function Home() {
       <section id="hero">
         <Hero />
       </section>
-
       <section id="features">
         <Feature />
       </section>
@@ -37,6 +36,12 @@ export default function Home() {
       <section id="contact">
         <Contact />
       </section>
+      {/* <About />
+      <Blog />
+      <Brands />
+      <FeaturesTab />
+      <CTA/> */}
+      <FunFact />
     </main>
   );
 }
